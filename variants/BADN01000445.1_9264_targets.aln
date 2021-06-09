@@ -1,0 +1,22 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+target           ---------------------------------TGCAGTTTTGGCTGAAAGGCACCTA--
+nate_target      CTTTCAAGCCATATTCTCAAATGCGCATGCTGTGAAAACTACTGTTGGCAAACACATACA
+target_rc        --------------------------------------TRTATGGTGTCTAATACTCAT-
+                                                            * **      **  *  
+
+target           GCCTGCGGTGGCG--ATGGATGCAAATCCA----AGCTTCTGATTACCGGGGGCAT---G
+nate_target      GCCTGTGTTGCTTTTATGGCTACAAATAAATTAGGACCTTTCATCAGCATTTTCCCTCCA
+target_rc        GCCCCCGGTAATCAGAAGCTTGGATTTGCAT---CCATCGCCACCGCAGGCTAGGTGCCT
+                 ***   * *      * *  *  *  *  *            *                 
+
+target           AGTATTAGACACCATAYA------------------------------------------
+nate_target      ATCATCCGGAATTAATCACTTATTATGTATGTGTCAGGCTGAAATGTGACATTGGATGTT
+target_rc        TTCAGCCAAAACTGCA--------------------------------------------
+                    *      *                                                 
+
+target           --------------------
+nate_target      TGAGGTCATGTAGTGAACTG
+target_rc        --------------------
+                                     

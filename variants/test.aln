@@ -1,0 +1,12 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+read            AATATGTGCGTGTGTCTCTGCATGCACACGACTGTATGTGCATTTTTGCCTTTGAGCCAC
+primer_rc       -------------------------------------------------------CCTGC
+primer          -------------------------------------------------AAGAAAATAAC
+                                                                           *
+
+read            TGAGCA-TGTTGTTTTCTGTG
+primer_rc       CCTGCACTGTTATTTTCTT--
+primer          AGTGCAGGGCAGG--------
+                   ***  *            

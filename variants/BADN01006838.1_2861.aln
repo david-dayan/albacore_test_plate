@@ -1,0 +1,38 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+primer_14bp      ------------------------------------------------------------
+probe1           ------------------------------------------------------------
+probe2           ------------------------------------------------------------
+probe1rc         ------------------------------------------------------------
+probe2rc         ------------------------------------------------------------
+nate_target      GCATTTCAAAATGATATACTNCATATTGCAGTCCTTGTTAAGTTTCTAGCATGCTGCCTG
+target           ------------------------------------------------------------
+                                                                             
+
+primer_14bp      ------------------------------------------------------------
+probe1           ------------------------------------------------------------
+probe2           ------------------------------------------------------------
+probe1rc         ------------------------------------------------------------
+probe2rc         ------------------------------------------------------------
+nate_target      TACTGTGAAATACAACGCTTTAACTGTTTAAACAATAATACCTTCATGACTCAAGTGCTC
+target           ---TGCAGCATTAATCAARGAAAAGGACCAACTCGGGTTTCTGAAGTTATTTGAAGTCAG
+                                                                             
+
+primer_14bp      ----------------------------------AAGAAAATAACAGT------------
+probe1           -----------------------------------ACACAGGAACA--------------
+probe2           -----------------------------------ACACAAGAACA--------------
+probe1rc         ------------------------------------TGTTCCTGTGT-------------
+probe2rc         ------------------------------------TGTTCTTGTGT-------------
+nate_target      CTAAATGAATTTTATTTACCTTTGAGAGTTAAAAAAGAAAATAACAGTGCAGGGCAGGGC
+target           CCCKTGTCCACACAGTTTAAAACAAATGGCCTCACAAGTGTTTRTGTTC-----------
+                                                                             
+
+primer_14bp      --------------------
+probe1           --------------------
+probe2           --------------------
+probe1rc         --------------------
+probe2rc         --------------------
+nate_target      AACCTCTTACCCAACACACA
+target           --------------------
+                                     
